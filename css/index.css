@@ -1,0 +1,169 @@
+.logo{
+	margin-top: 10px;
+}
+.right{
+	margin-top: 20px;
+}
+.navbar{
+	margin-top: 10px;
+	background-color: #1c3168;
+	
+}
+.navbar-toggle span{
+	background-color: #FFFFFF;
+}
+.nav{
+	margin-top: 10px;
+}
+
+.nav li a{
+	color: #FFFFFF;
+}
+.banner{
+	margin-top: -20px;
+}
+.swiper-slide img{
+	width: 100%;
+}
+.text-center{
+	margin-top: 20px;
+}
+.text-center p{
+	color: #1c3168;
+	font-family: "微软雅黑";
+	font-weight: bold;
+	font-size: 30px;
+}
+.text-center span{
+	color: #515255;
+	font-size: 15px;
+	line-height: 30px;
+}
+.pager li a:hover{
+	background-color: #ff6900;
+}
+.text1{
+	text-align: center;
+	
+}
+.text1 p{
+	font-weight: bold;
+	font-size: 50px;
+	color:#1c3168 ;
+	margin-top: 40px;
+}
+.text1 span{
+	font-size: 12px;
+	line-height: 20px;
+	color: #b2b2b2;
+}
+.row{
+	margin-top: 5px;
+}
+
+@media screen and (max-width: 992px){
+	.media{
+		text-align: center;
+	}
+	.media-1{
+		text-align: center;
+		margin-top: -25px;
+	}
+	
+}
+
+.media{
+	padding-top: 5px;
+	font-family: "微软雅黑";
+	
+}
+.media-1{
+	padding-top: 20px;
+}
+.media-1 p{
+	font-size: 12px;
+	line-height: 20px;
+}
+.media p{
+	font-size: 14px;
+	line-height: 20px;
+}
+.jieshao{
+	width: 100%;
+	height: 300px;
+	margin-top: 20px;
+	text-align: center;
+	font-family: "微软雅黑";
+	background-color:#1c3168 ;
+	color: #ffffff;
+}
+.text-1{
+	padding-top: 50px;
+}
+.text-1 p{
+	font-weight: bold;
+	font-size: 50px;
+}
+.text-1 span{
+	font-size: 20px;
+}
+
+.shuru{
+	padding: 10px;
+}
+.shuru input,.shuru textarea{
+	background-color: #eeeeee;
+}
+@media screen and (max-width: 500px){
+	.text-1{
+		padding-top: 80px;
+	}
+	.text-1 p{
+		font-size: 30px;
+	}
+	.text-1 span{
+		font-size: 14px;
+	}
+	
+	.media p{
+		font-size: 10px;
+		line-height: 20px;
+	}
+	.text-center span{
+		font-size: 10px;
+		line-height: 10px;
+	}
+	
+}
+.footer{
+	font-family: "微软雅黑";
+	background-color:#1c3168 ;
+	color: #eeeeee;
+	padding: 30px;
+}
+.footer-left{
+	margin-top: 20px;
+	border-right: 1px solid #ffffff;
+}
+.eweima{
+	padding: 10px;
+	margin-top: 10px;
+}
+
+.eweima1{
+	margin-left: 10px;
+	display: inline;
+}
+.eweima2{
+	display: inline;
+	padding-left: 10px;
+}
+.text-2{
+	margin-top: 10px;
+	margin-left:20px;
+}
+@media screen and (max-width: 500px){
+	.footer-left{
+	border :none;
+	}
+}
